@@ -1,3 +1,4 @@
 Hi shuvro, this is a git test
 Hi shuvro, this is from another branch
 Third line has been added from shuvro branch
+Fouth line has been added from master branch
